@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\TokenGrabber\TokenGrabber.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
